@@ -1,64 +1,31 @@
+# Invoicefy – Billing Solutions
 
-# Invoicefy â€“ Billing System
+**Invoicefy** is a desktop billing application developed using **Python (Tkinter)** and **MySQL**, designed for small to medium-sized businesses. It streamlines the process of generating and managing invoices, ensuring an efficient and user-friendly experience.
 
-Invoicefy is a simple yet powerful desktop billing application developed using **Python (Tkinter)** and **MySQL**. 
-It is designed for small businesses or individuals who want to generate invoices, manage customers, and maintain billing records efficiently.
+## 🔑 Key Features
 
-## ðŸš€ Features
+- Clean and intuitive user interface
+- Invoice creation with automatic calculation
+- Customer and transaction management
+- Secure data storage using MySQL
+- Admin and cashier login system
+- Invoice history and bill viewer
 
-- GUI built with Tkinter for easy use
-- Invoice generation with item-wise breakdown
-- Customer data management
-- Real-time database integration with MySQL
-- Save, update, and delete billing records
+## 🛠️ Technologies Used
 
-## ðŸ› ï¸ Tech Stack
-
-- **Frontend**: Tkinter (Python GUI library)
+- **Frontend**: Tkinter (Python GUI)
 - **Backend**: Python
 - **Database**: MySQL
 
-## ðŸ“· Screenshots
+## 📋 Project Summary
 
-*Add screenshots of your app interface here*
+Invoicefy allows users to generate, save, view, and manage invoices easily. With features like adding, updating, and deleting items, multi-user login, and invoice tracking, it’s built to support the core needs of a billing system. The project is intended for academic purposes and demonstrates strong fundamentals in database integration and GUI development using Python.
 
-## âš™ï¸ Installation
+## 📄 Documentation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/invoicefy-billing-system.git
-   ```
-
-2. Install required packages (if any):
-   ```bash
-   pip install mysql-connector-python
-   ```
-
-3. Setup MySQL database using the included SQL file (if available).
-
-4. Run the application:
-   ```bash
-   python invoicefy.py
-   ```
-
-## ðŸ“ Folder Structure
-
-```
-Invoicefy/
-â”œâ”€â”€ invoicefy.py
-â”œâ”€â”€ db_config.py
-â”œâ”€â”€ requirements.txt
-â”œâ”€â”€ README.md
-â””â”€â”€ screenshots/
-```
-
-## ðŸ™‹â€â™‚ï¸ Author
-
-**Muhammed Fadhil V.S**  
-[GitHub](https://github.com/fadhilvs) | [LinkedIn](https://linkedin.com/in/fadhilvs)
-
-## ðŸ“„ License
-
-This project is open-source and free to use for educational purposes.
+Full project documentation including flowcharts, ER diagrams, source code, and screenshots is available in the uploaded PDF.
 
 ---
+
+**Developed by:** Muhammed Fadhil V.S  
+As part of CBSE Class 12 Computer Science Project (2024–2025)
