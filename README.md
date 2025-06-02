@@ -27,5 +27,5 @@ Full project documentation including flowcharts, ER diagrams, source code, and s
 
 ---
 
-**Developed by:** Muhammed Fadhil V.S  
-As part of CBSE Class 12 Computer Science Project (2024–2025)
+**Developed by:** Muhammed Fadhil V.S
+                  Sufiyan shiraj muhammed
